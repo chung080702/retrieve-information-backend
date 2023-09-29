@@ -14,7 +14,7 @@
 npm i
 ```
 
-- Start frontend:
+- Start backend:
 
 ```
 npm run start
